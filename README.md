@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32fadbdb-f066-49ec-b963-a59eee3d7e1d)# 英文单词的词频统计和检索系统
+# 英文单词的词频统计和检索系统
 
 定义了五种数据结构：
 顺序表、链表、二叉排序树、哈希表顺序存储的结构体、哈希表链式存储的结构体。
